@@ -17,7 +17,7 @@ function setup(){
 
     
     ground = new Ground(600,height,1200,20)
-    platform = new Ground(200,height,500,400)
+    platform = new Ground(200,height,500,400);
 
 
     box1 = new Box(700,320,70,70);
